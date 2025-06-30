@@ -1,9 +1,27 @@
 - 👋 Hi, I’m Shashank Shekhar ( @Shashank-468 )
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to become Full Stack Developer
+- 💞️ I’m Mainframe Developer @ Wipro Technologies working for the esteemed clients
 - 📫 You can mail me at mbox.shashank@gmail.com
 
-I am a dedicated, hardworking and proactive IT Student pursuing BCA Degree from Gopal Narayan Singh University with a strong background in programming languages such as C, C++, Java and Python.I am an open source enthusiast who loves coding out of profession. I am a web developer and a Cyber Security enthusiast. Smartly involved to push my limits becoming a Full Stack Developer. I am currently looking for an opportunity to utilise my technical skills in a challenging working environment and become a valuable asset to the organisation that I work for. Also, I am Trusted Contributor on Mozilla Support Forum under top 25 rank in all over the world.
+Being a quick learner and having the zeal to learn new technologies, I am always ready to learn and work in any kind of technology.
 
-| Open Source 💙 | CODEHOLIC | Actions on Mozilla | Web Development 💚| Cyber Security Enthusiast |
+Currently working @WIPRO, having 3+ year of experience in Dotnet full stack development using ASP.Net, ADO.Net, C#, Entity Framework, and Mainframe Technology which includes JCL, VSAM, COBOL, DB2, CICS, etc.
+
+Ready To accept challenges/Ready to work in an environment which encourages me to succeed and grow professionally ,where I can utilize my skills and knowledge in a best way.
+
+Technical SKILLS:
+
+1. Mainframe Technologies: COBOL, CICS, JCL, DB2, VSAM
+2. Tools: ISPW, Platinum, SPUFI, Abend-Aid, CA7, Autosys, MQ, NDM, File-Aid, Container, Cloudbees
+4. DSA
+5. Google Cloud
+6. Microsoft Azure
+7. ReactJS
+
+2xAzure 1xGCP 1xNPTEL 5xCoursera 3xIBM
+
+Accomplishments:-
+
+1. Name on Firefox Credits Page ( One of the few Indians )
+2. Worked for Dubai Government Website ( South Energy )
+
+| Open Source 💙 | CODEHOLIC | Actions on Mozilla | Web Development 💚| Cyber Security Enthusiast | Mainframer 🖤 |
